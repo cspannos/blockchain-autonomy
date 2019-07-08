@@ -18,14 +18,22 @@ The properties of distributed consensus technologies (in theory) are:
 
 - Disaggregation:
 
+# Application areas
 
 Application areas of social innovations in which decentralized solutions based on DLTs have shown clear benefits over conventional centralised platform solutions:
+
 a) demonstrating the origin of raw materials or products and supporting fair trade and the fair monetization of labour;
+
 b) allowing for a greater visibility of public spending and a greater transparency of administrative and production processes;
+
 c) participation in democratic decision-making by enabling accountability, rewarding of participation and/or anonymity;
+
 d) enabling the development of decentralized social networks or clouds, or of decentralized platforms for the collaborative economy;
+
 e) managing property, land registry or other public records;
+
 f) contributing to financial inclusion;
+
 g) any other area not listed above.
 
 
